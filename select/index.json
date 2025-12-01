@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "2人",
+  "base_artist": "Rie Tomosaka",
+  "createdAt": "2025-12-01T19:39:54.445055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "2人",
+      "artist": "SHE'S",
+      "has_synced": true,
+      "path": "select/01_2人_SHE'S.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "2人",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/02_2人_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2人のストーリー",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_01_2人のストーリー_YUKI.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "2人のストーリー",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_02_2人のストーリー_YUKI.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "2人の夜明け",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_03_2人の夜明け_YUKI.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "2人だけのパレード",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_04_2人だけのパレード_YUKI.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "2人のストリート",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_05_2人のストリート_YUKI.txt"
+    }
+  ]
+}
